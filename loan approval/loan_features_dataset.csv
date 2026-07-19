@@ -1,0 +1,51 @@
+Gender,Education,Income,LoanAmount,Loan_Status
+Male,Not Graduate,22115,111,Y
+Female,Graduate,22139,276,Y
+Female,Graduate,19350,159,Y
+Female,Graduate,22390,278,Y
+Male,Not Graduate,15174,65,Y
+Male,Graduate,16027,232,Y
+Male,Graduate,11706,549,Y
+Male,Graduate,6847,651,Y
+Male,Graduate,6742,124,Y
+Female,Graduate,20393,79,Y
+Female,Graduate,21052,355,Y
+Female,Graduate,15116,624,Y
+Male,Graduate,27781,235,Y
+Male,Graduate,24463,246,Y
+Male,Graduate,25546,52,Y
+Female,Graduate,20644,280,Y
+Male,Graduate,2635,619,Y
+Female,Graduate,2593,350,Y
+Male,Graduate,10978,221,Y
+Male,Graduate,25030,172,Y
+Male,Not Graduate,16198,333,N
+Male,Graduate,10950,84,Y
+Female,Graduate,21331,316,Y
+Male,Graduate,4252,310,N
+Male,Graduate,20994,161,Y
+Male,Not Graduate,24168,408,N
+Male,Not Graduate,6017,649,Y
+Female,Not Graduate,9683,176,Y
+Female,Not Graduate,2113,211,N
+Male,Not Graduate,26522,459,Y
+Female,Not Graduate,23780,577,N
+Female,Graduate,25458,273,Y
+Male,Graduate,13357,699,Y
+Female,Graduate,16057,365,Y
+Male,Not Graduate,25581,515,N
+Female,Not Graduate,20506,580,Y
+Female,Not Graduate,29791,636,N
+Male,Graduate,11371,241,Y
+Female,Graduate,9285,59,Y
+Female,Graduate,11378,105,Y
+Female,Graduate,23732,560,Y
+Female,Not Graduate,24523,195,N
+Male,Not Graduate,8043,153,Y
+Female,Not Graduate,24969,248,Y
+Female,Graduate,10940,564,Y
+Female,Not Graduate,4091,598,Y
+Male,Graduate,20498,239,Y
+Female,Graduate,15334,60,Y
+Female,Not Graduate,6950,167,Y
+Male,Graduate,10232,223,Y
